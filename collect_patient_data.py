@@ -61,5 +61,5 @@ print(finalDF.sample(6))
 
 
 # Export data to CSV
-os.makedirs('data', exist_ok=True)  
-finalDF.to_csv('data/patientPNGImageCount.csv')
+os.makedirs('analysis', exist_ok=True)  
+finalDF.to_csv('analysis/patientPNGImageCount.csv')

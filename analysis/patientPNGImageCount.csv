@@ -1,0 +1,7 @@
+,patientNumber,imageCount,class
+0,Patient_1,1,AFF
+1,Patient_2,1,AFF
+2,Patient_3,1,AFF
+0,Patient_4,1,CONTROL
+1,Patient_5,1,CONTROL
+2,Patient_6,1,CONTROL
